@@ -32,5 +32,5 @@ Based on the regression coefficients, the following strategic insights were gene
 ├── data/
 │   └── vehicles.csv           # Raw dataset (Note: May require unzipping or external download due to size)
 ├── notebooks/
-│   └── prompt_II.ipynb        # Main Jupyter Notebook containing the CRISP-DM analysis
+│   └── car_analysis.ipynb        # Main Jupyter Notebook containing the CRISP-DM analysis
 └── README.md                  # Project documentation
