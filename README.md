@@ -3,6 +3,8 @@ This repository contains a comprehensive machine learning analysis of the second
 
 The final deliverable translates raw vehicle data into actionable business intelligence, providing data-backed recommendations to help used car dealerships optimize their inventory acquisition and pricing strategies.
 
+🔗 **[Click here to view the full Jupyter Notebook Analysis](notebooks/car_analysis.ipynb)**
+
 ## ⚙️ Methodology
 The analysis is strictly guided by the **CRISP-DM** (Cross-Industry Standard Process for Data Mining) framework to ensure all technical tasks align with the underlying business objectives:
 
